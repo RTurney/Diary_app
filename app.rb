@@ -9,6 +9,6 @@ class Diary < Sinatra::Base
 
   post '/entry' do
     @entry = params[:entry]
-    @entry
+    erb(:entry)
   end
 end

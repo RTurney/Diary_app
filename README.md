@@ -26,7 +26,7 @@ To run these tests run:
 rspec
 ```
 
-Currently there are 0 tests with 0% coverage. 
+Currently there are 0 tests with 0% coverage.
 
 ## User stories:
 
@@ -87,7 +87,7 @@ I want to be able to filter Diary Entries by Tag
 
 ## Implemented features:
 
-* [ ] Add a new diary entry
+* [x] Add a new diary entry
 * [ ] Give diary entry a title
 * [ ] See a list of Diary entries by titles
 * [ ] Click on entry titles to see diary entries
