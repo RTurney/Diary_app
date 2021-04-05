@@ -4,6 +4,6 @@ require 'sinatra/base'
 class Diary < Sinatra::Base
 
   get '/' do
-    'Hello world!'
+    'Diary App'
   end
 end
