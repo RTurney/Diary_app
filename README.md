@@ -78,3 +78,14 @@ I want to be able to filter Diary Entries by Tag
 ```
 
 ## Implemented features:
+
+* [ ] Add a new diary entry
+* [ ] Give diary entry a title
+* [ ] See a list of Diary entries by titles
+* [ ] Click on entry titles to see diary entries
+* [ ] Can edit diary entries
+* [ ] Can delete a diary entry
+* [ ] Can comment on a diary entry
+* [ ] Can see associated comments on a diary entry
+* [ ] Add tags to diary
+* [ ] can filter diary entries by tag 
