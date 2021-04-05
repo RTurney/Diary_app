@@ -18,7 +18,15 @@ Then to run the app itself:
 ```
 rackup
 ```
+## Testing and coverage
 
+Testing for this app is run using RSpec and Capybara.
+To run these tests run:
+```
+rspec
+```
+
+Currently there are 0 tests with 0% coverage. 
 
 ## User stories:
 
@@ -88,4 +96,12 @@ I want to be able to filter Diary Entries by Tag
 * [ ] Can comment on a diary entry
 * [ ] Can see associated comments on a diary entry
 * [ ] Add tags to diary
-* [ ] can filter diary entries by tag 
+* [ ] can filter diary entries by tag
+
+## Developer notes
+
+
+### Author:
+LinkedIn: https://www.linkedin.com/in/richard-turney-4ab178113/
+Github: https://github.com/RTurney
+Email: r.turney93@gmail.com
