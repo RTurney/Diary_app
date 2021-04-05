@@ -9,6 +9,7 @@ class Diary < Sinatra::Base
 
   post '/entry' do
     @entry = params[:entry]
+    @title = params[:title]
     erb(:entry)
   end
 end
