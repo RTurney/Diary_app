@@ -13,6 +13,24 @@ After cloning the repo ensure all necessary gems are installed, run:
 ```
 bundle install
 ```
+Setting up the database:
+ensure you have postgresql installed on your device
+```
+brew install postgresql
+```
+Then connect to psql
+```
+psql
+```
+and create the database
+```
+CREATE DATABASE "diary_database"
+```
+connect to the database
+```
+\c diary_database
+```
+And run all the queries provided in the migrations files.
 
 Then to run the app itself:
 ```
