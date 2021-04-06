@@ -103,6 +103,22 @@ So that I can see different types of entry
 I want to be able to filter Diary Entries by Tag
 ```
 
+## Wireframe design:
+This app will be a web app run using sinatra.
+Here are the initial designs for how the app will look:
+
+Home Page:
+
+<img src='./assets/HomePage.png'>
+
+New Entry Page:
+
+<img src='./assets/New_Entry.png'>
+
+Entry Page:
+
+<img src='./assets/EntryPage.png'>
+
 ## Implemented features:
 
 * [x] Add a new diary entry

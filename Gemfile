@@ -9,6 +9,7 @@ gem 'rubocop-rspec'
 gem 'sinatra'
 gem 'sinatra-contrib'
 gem 'webrick'
+gem 'pg'
 
 group :test do
   gem 'rspec'
