@@ -122,7 +122,7 @@ Entry Page:
 ## Implemented features:
 
 * [x] Add a new diary entry
-* [ ] Give diary entry a title
+* [x] Give diary entry a title
 * [ ] See a list of Diary entries by titles
 * [ ] Click on entry titles to see diary entries
 * [ ] Can edit diary entries
