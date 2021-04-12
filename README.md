@@ -1,6 +1,6 @@
 # Diary app
 
-This app was a challenge given by Makers to better teahc the fundamentals of working with databases.
+This app was a challenge given by Makers to better teach the fundamentals of working with databases.
 
 ## Instructions:
 
